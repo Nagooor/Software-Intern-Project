@@ -25,7 +25,7 @@ Installation
 Follow these steps to set up the project locally:
 
 1.Clone the Repository:
-git clone https://github.com/your-username/spreadsheet-backend.git
+git clone https://github.com/Nagooor/Software-Intern-Project/tree/main
 cd spreadsheet-backend
 
 2.Set Up a Virtual Environment:
@@ -45,7 +45,7 @@ python manage.py createsuperuser
 python manage.py runserver
 
 7.Access the API:
-Open your browser and go to http://127.0.0.1:8000/api/.
+Open your browser and go to http://127.0.0.1:8000/api
 
 API Endpoints
 The following endpoints are available:
